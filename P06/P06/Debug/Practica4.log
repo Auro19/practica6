@@ -1,0 +1,4 @@
+﻿  main_prac6.cpp
+c:\users\cg01\desktop\practica6\practica4\practica4\main_prac6.cpp(40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Practica4.vcxproj -> C:\Users\CG01\Desktop\Practica6\Practica4\Debug\Practica4.exe
+  Practica4.vcxproj -> C:\Users\CG01\Desktop\Practica6\Practica4\Debug\Practica4.pdb (Partial PDB)
